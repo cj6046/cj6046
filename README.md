@@ -27,6 +27,7 @@ is ever expanding and I would love to be a part of it. I can't wait to learn mor
 
 The best way to get me (that I'm willing to post on such a public forum) is my LinkedIn profile:
 
+https://www.linkedin.com/in/cjones-cs-student/
 
 There, you can look at my resume, see more of my relevant skills and experience, or just message me about potential collaboration. I'd love to help and learn 
 along the way!
