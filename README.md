@@ -7,15 +7,13 @@ to transfer to a 4-year institution where I can deepen my understand in a few ke
 
 # Currently Learning
 
-Currently, I am in Computer Science II and primarily learning Java in class (while teaching myself C++ on the side). However, I've had experience with C#, HTML, 
-CSS, and Python as well. Obviously, I cannot post my class projects here due to plagiarism issues, but I am trying to upload as many personal projects as I 
-can while working and taking a full course load! Please forgive the lack of repos... 
+Currently, I am in Computer Science II and primarily learning Java in class. But I have A LOT to learn, so I am actively teaching myself Python, C++, html, css, and javascript on the side. Obviously, I cannot post my class projects here due to plagiarism issues, but I am trying to upload as many personal projects as I can while working and taking a full course load! Please forgive the lack of repos... 
 
 # Main Interests
 
-Autonomity in robotics is my main area of interest. I really want to get involved in self-driving cars, autonomous UAV's, or self-mobilizing robots such as 
+Autonomy in robotics is my main area of interest. I really want to get involved in self-driving cars, autonomous UAV's, or self-mobilizing robots such as 
 those developed at Boston Dynamics. Embedded systems are a second area of interest (and giving those systems the ability to learn on their own!). The Internet of Things 
-is ever expanding and I would love to be a part of it. I can't wait to learn more, especially in professional settings!
+is ever expanding and I am going to be a part of it. I can't wait to learn more, especially in professional settings!
 
 ## Secondary Interests and Hobbies
 
@@ -25,7 +23,7 @@ is ever expanding and I would love to be a part of it. I can't wait to learn mor
 
 # Contact Info
 
-The best way to get me (that I'm willing to post on such a public forum) is my LinkedIn profile:
+The best way to get me is my LinkedIn profile:
 
 https://www.linkedin.com/in/cjones-cs-student/
 
