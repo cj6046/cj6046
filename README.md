@@ -7,7 +7,7 @@ to transfer to a 4-year institution where I can deepen my understand in a few ke
 
 # Currently Learning
 
-Currently, I am in Computer Science II and primarily learning Java in class. But I have A LOT to learn, so I am actively teaching myself Python, C++, html, css, and javascript on the side. Obviously, I cannot post my class projects here due to plagiarism issues, but I am trying to upload as many personal projects as I can while working and taking a full course load! Please forgive the lack of repos... 
+Currently, I am in Computer Science II and primarily learning Java in class. But I have A LOT to learn, so I am actively teaching myself Python, C++, html, css, and javascript on the side. Algorithms and Data Structures are also a primary focus. Obviously, I cannot post my class projects here due to plagiarism issues, but I am trying to upload as many personal projects as I can while working and taking a full course load! Please forgive the lack of repos... 
 
 # Main Interests
 
