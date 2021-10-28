@@ -3,7 +3,7 @@
 Hey! I’m Chris, a Sophomore at Georgia State Perimeter College studying Computer Science looking for my first professional co-op. My first Bachelor's degree is from 
 Auburn University, where I studied Theatre and Performance. Next came several good years of acting professionally around the greater Atlanta area. With the Covid-19 
 pandemic, live theatre halted abrudptly. While sad, this gave me a chance to revitalize my love and passion for science and computing. Next year, I am hoping 
-to transfer to a 4-year institution where I can deepen my understand in a few key areas (A.I. and Machine Learning in particular) and broaden my knowledge overall.
+to transfer to a 4-year institution where I can deepen my understanding in a few key areas (A.I. and Machine Learning in particular) and broaden my knowledge overall.
 
 # Currently Learning
 
