@@ -1,9 +1,6 @@
 # Introduction
 
-Hey! I’m Chris, a rising junior at Georgia State University studying Computer Science looking for full-time professional work. My first Bachelor's degree is from 
-Auburn University, where I studied Theatre and Performance. Next came several good years of acting professionally around the greater Atlanta area. With the Covid-19 
-pandemic, live theatre halted abrudptly. While sad, this gave me a chance to revitalize my love and passion for science and computing. Next year, I am hoping 
-to deepen my understanding in a few key areas (A.I. and Machine Learning in particular) and broaden my knowledge overall.
+Hey! I’m Chris, a rising junior at Georgia State University studying Computer Science working full time as a Software Engineer I with ServiceMaster. My first Bachelor's degree is from Auburn University, where I studied Theatre and Performance. Next came several good years of acting professionally around the greater Atlanta area. With the Covid-19 pandemic, live theatre halted abrudptly. While sad, this gave me a chance to revitalize my love and passion for science and computing. This year, I am hoping to deepen my understanding in a few key areas (A.I. and Machine Learning in particular) and broaden my knowledge overall.
 
 # Currently Learning
 
