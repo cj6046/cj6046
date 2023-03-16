@@ -1,6 +1,6 @@
 # Introduction
 
-Hey! I’m Chris, a rising junior who just transferred to the University of Central Florida to study Computer Science while working full time as a Software Engineer I with ServiceMaster. My first Bachelor's degree is from Auburn University, where I studied Theatre and Performance. Next came several good years of acting professionally around the greater Atlanta area. With the Covid-19 pandemic, live theatre halted abrudptly. While sad, this gave me a chance to revitalize my love and passion for science and computing. This year, I am hoping to deepen my understanding in a few key areas (A.I. and Machine Learning in particular) and broaden my knowledge overall.
+Hey! I’m Chris, a sophomore who just transferred to Auburn University to study Computer Science while working full time as a Software Engineer I with Gridline in Atlanta. My first Bachelor's degree is also from Auburn University, where I studied Theatre and Performance. Next came several good years of acting professionally around the greater Atlanta area. With the Covid-19 pandemic, live theatre halted abrudptly. While sad, this gave me a chance to revitalize my love and passion for science and computing. This year, I am hoping to deepen my understanding in a few key areas (A.I. and Machine Learning in particular) and broaden my knowledge overall.
 
 # Currently Learning
 
